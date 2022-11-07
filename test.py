@@ -1,4 +1,5 @@
 def f():
-  pass
+    pass
+
 
 print('privet')
